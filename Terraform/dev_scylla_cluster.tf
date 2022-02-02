@@ -1,5 +1,5 @@
 variable "scylla_4_4_1_ami" {
-  default = "ami-0535c8d7fd3c1754c"
+  default = "ami-05dfc8d7fd3c1754c"
 }
 
 module "dev_scylla_cluster" {
